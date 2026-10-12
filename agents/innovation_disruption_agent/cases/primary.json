@@ -1,14 +1,14 @@
 {
-  "emerging_technology": "REPLACE",
-  "intended_application": "REPLACE",
-  "organization": "REPLACE",
-  "industry_sector": "REPLACE",
-  "business_need": "REPLACE",
-  "users_stakeholders": "REPLACE",
-  "adoption_posture": "REPLACE",
-  "capabilities_constraints": "REPLACE",
-  "risk_consequence_context": "REPLACE",
-  "management_question": "REPLACE",
-  "time_horizon": "REPLACE",
-  "additional_context": ""
+  "emerging_technology": "MCP Servers (Model Context Protocol servers)",
+  "intended_application": "Personal financial assistant and advisor to pinpoint certain cost savings users might want to tackle first to optimize capital growth. MCP servers read from multiple bank and financial institution APIs through an LLM chatbot that understands natural language or voice.",
+  "organization": "An unspecified financial organization that could sell this product as an integrated feature in its financial offerings. A specific organization has not yet been identified.",
+  "industry_sector": "Financial services",
+  "business_need": "Identify and prioritize customer cost-saving opportunities, support financial advisors in day-to-day customer service, and offer an integrated personal financial assistance feature.",
+  "users_stakeholders": "Customers, financial advisors, product owner, and employee users providing product-quality feedback.",
+  "adoption_posture": "Innovator",
+  "capabilities_constraints": "Proposed capability: connect multiple financial institution APIs to an LLM chatbot through MCP servers, supporting natural-language or voice interactions. Actual API access, data permissions, integration coverage, organizational resources, and technical readiness have not been supplied. Employee pushback and the effort required to report product feedback are anticipated by the student.",
+  "risk_consequence_context": "Users could receive inaccurate cost-saving recommendations or have sensitive financial information exposed.",
+  "management_question": "How could an MCP-enabled personal financial assistant create value or displace existing budgeting and advisory services, and should the organization prepare through a bounded pilot?",
+  "time_horizon": "Near-term: the next 6–12 months.",
+  "additional_context": "Student: Matthew Pecko. Assignment: Innovation Disruption Agent. Record date: 2026-10-12. Repository: https://github.com/Matthew1172/assignment-3-innovation-disruption-agent. Branch: main. Student commit entry: latest (not an immutable commit identifier). Frozen scaffold version: MASY1800_ET_Agent_Scaffold_v1_0.\nGoverning analytical question: What kind of innovation is this technology and application, and how could it create, destroy, displace, or reshape value in this organization and its business model?\nStudent's preliminary general ET finding: MCP is an emerging technology created largely through recombination rather than invention. It combines mature ideas such as APIs, structured schemas, authentication, and standardized interfaces with the newer requirement that AI agents are the users.\nStudent's preliminary application finding: MCP servers connect to multiple bank and financial organization APIs through an LLM chatbot using natural language or voice to provide personal financial assistance and optimize cost savings.\nStudent's preliminary organization finding: The organization can sell the product as an integrated feature in its financial offerings.\nStudent's proposed management implication: Start by mandating all financial advisors to use this agent to perform day-to-day tasks on behalf of the customer, establishing a quality feedback loop with the product owner and users.\nStudent's confidence statement: High confidence. LLMs perform well at understanding human intent. API integration with financial institutions is stable and well documented. Employee pushback is expected when using a new agentic tool for specialist activities and reporting product-performance feedback.\nStudent's proposed conditions that would change the conclusion: High product usage by employees and constant cooperation between product owner and users to improve the product.\nThese preliminary findings and confidence claims are student-provided hypotheses, not verified evidence or completed test results. No supporting sources, analytical test results, diagnosis, revision, limitations, or independent handoff judgment were supplied in Sections D and E. Evaluate the claims independently and identify missing evidence. Preserve and examine the tension between a bounded pilot in the management question and mandatory use by all advisors in the proposed implication. Clarify whether day-to-day tasks mean read-only analysis or actions on customer accounts; transaction authority was not specified. Do not treat employee usage alone as proof of accuracy, customer value, or financial safety."
 }
