@@ -1,0 +1,50 @@
+{
+    "agent": {
+        "name": "Innovation and Disruption Agent",
+        "specialty": "Innovation classification and creative destruction",
+        "version": "0.1-student"
+    },
+    "analytical_question": "What kind of innovation is robotic 3D concrete printing for custom housing walls, and could it reshape how the architecture practice creates and captures value?",
+    "general_et_finding": "Robotic 3D concrete printing is a demonstrated construction innovation, not merely an invention: real projects and established technical approaches exist. It can represent breakthrough technical change where layer-by-layer fabrication removes conventional formwork constraints, although performance advantages remain context-dependent.",
+    "application_finding": "For custom exterior wall forms, the application is potentially a breakthrough process innovation relative to conventional custom formwork because printing can directly fabricate geometrically complex walls from digital models. It remains a potential innovation in this case because no implementation, permitting, savings, or customer value is yet evidenced.",
+    "organization_specific_finding": "For this architecture practice, the near-term change is primarily new-to-organization and could remain incremental to its business model if it continues selling design services while a construction partner performs printing. Integrated design-and-construction would be a larger business-model innovation, but the case provides no evidence that the practice can capture construction revenue.",
+    "evidence": [
+        {
+            "claim": "Robotic 3D concrete printing is already an implemented construction technology and can enable complex designs while providing an alternative to conventional construction methods.",
+            "source_or_reference": "Mansour et al., “A guided approach for utilizing concrete robotic 3D printing for the architecture, engineering, and construction industry,” Construction Robotics, https://link.springer.com/article/10.1007/s41693-023-00103-9",
+            "date_or_recency": "2023",
+            "evidence_type": "Peer-reviewed research / categorical study of constructed projects",
+            "notes": "Supports demonstrated innovation and design capability, but does not establish benefits for the hypothetical practice."
+        },
+        {
+            "claim": "3D concrete printing can eliminate labor-intensive formwork and enable new architectural design possibilities, but reported productivity and cost outcomes vary substantially by context.",
+            "source_or_reference": "Placzek et al., “How Productive Is 3D Concrete Printing? A Systematic Review,” CCC 2025 / IAARC, https://www.iaarc.org/publications/2025_proceedings_of_the_14th_ccc_zadar_croatia/how_productive_is_3d_concrete_printing_a_systematic_review_.html",
+            "date_or_recency": "2025",
+            "evidence_type": "Systematic literature review",
+            "notes": "Supports the process-change classification while cautioning against assuming cost or time savings for this application."
+        },
+        {
+            "claim": "Structural reliability remains constrained by issues including reinforcement integration and quality control in robotic concrete fabrication.",
+            "source_or_reference": "“Structural Optimization for Robotic Concrete Construction: A Systematic Review,” Applied Sciences, https://www.mdpi.com/2076-3417/16/12/6070",
+            "date_or_recency": "2026",
+            "evidence_type": "Systematic review of 90 peer-reviewed studies",
+            "notes": "Supports caution about treating printed walls as a proven substitute for conventional construction in every structural application."
+        }
+    ],
+    "contrary_evidence_or_limitations": [
+        "The application could be incremental rather than breakthrough if printing merely substitutes one fabrication method for another without a discontinuous improvement in achievable geometry, cost, or performance.",
+        "The architecture practice may capture little economic benefit if the printing contractor owns the equipment, expertise, and construction relationship while the practice continues earning conventional design fees."
+    ],
+    "confidence_and_uncertainty": "Moderate confidence in the general technology and process classification; low confidence in organization-level disruption because the case supplies no project economics, permitting outcome, customer demand, contractual model, or evidence that the practice can capture construction value.",
+    "value_opportunity_implication": "Printing could make distinctive geometries economically buildable and strengthen the practice’s design offering. Greater value capture becomes possible only if the practice can convert that capability into paid integrated services rather than transferring the economic benefit to its construction partner.",
+    "risk_governance_implication": "The main displacement risk is reduced reliance on custom formwork and associated fabrication work, while printing specialists may gain bargaining power. For this fast follower, adopting too early is presently the larger risk because structural suitability, approval, and project economics remain unverified.",
+    "recommendation_management_implication": "Business-Model Disruption Judgment: Moderate. Pilot the technology with an experienced construction partner while retaining the existing design-fee model until permitting, technical performance, and value capture are demonstrated. An alternative Low judgment applies if printing changes construction execution but leaves the practice’s services and revenue model essentially unchanged.",
+    "change_monitoring_triggers": [
+        "A permitted pilot demonstrates that printed custom walls provide a material advantage over conventional formwork for designs the practice actually sells.",
+        "The practice or its competitors begin contracting directly for integrated design-and-print construction services and capturing revenue beyond conventional architectural fees."
+    ],
+    "abstention_or_more_information_needed": [
+        "Evidence comparing the pilot’s printing cost, constructability, approval requirements, and achievable geometry with conventional custom formwork is needed to determine whether the application is genuinely breakthrough.",
+        "Contractual and revenue information is needed to determine whether integrated delivery would create a viable new value-capture model for the architecture practice rather than primarily benefiting the printing contractor."
+    ]
+}
