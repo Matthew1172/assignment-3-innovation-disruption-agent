@@ -1,14 +1,14 @@
 {
-  "emerging_technology": "REPLACE",
-  "intended_application": "REPLACE",
-  "organization": "REPLACE",
-  "industry_sector": "REPLACE",
-  "business_need": "REPLACE",
-  "users_stakeholders": "REPLACE",
-  "adoption_posture": "REPLACE",
-  "capabilities_constraints": "REPLACE",
-  "risk_consequence_context": "REPLACE",
-  "management_question": "REPLACE",
-  "time_horizon": "REPLACE",
-  "additional_context": ""
+  "emerging_technology": "Bidirectional electric-vehicle charging using vehicle-to-grid (V2G) systems.",
+  "intended_application": "Offer fleet customers a dealership-installed charging service that allows parked electric vehicles to supply electricity to the grid when authorized, while preserving enough charge for scheduled driving.",
+  "organization": "A hypothetical regional automotive dealership group that sells electric vehicles and earns recurring revenue from vehicle servicing.",
+  "industry_sector": "Automotive sales and servicing",
+  "business_need": "Create a recurring customer service beyond vehicle sales and conventional maintenance.",
+  "users_stakeholders": "Dealership staff, fleet operators, drivers, and the local electricity utility.",
+  "adoption_posture": "Innovator — explore a small fleet pilot with a utility and compatible equipment supplier before selling the service widely.",
+  "capabilities_constraints": "The dealership has vehicle sales and servicing expertise but no established grid-services business. Vehicle compatibility, utility participation, customer contracts, and manufacturer warranty conditions remain unconfirmed.",
+  "risk_consequence_context": "A vehicle could lack sufficient charge when a customer needs it. Unclear responsibility for battery wear or charging failures could cause disputes and undermine customer trust.",
+  "management_question": "Could a V2G service give the dealership a viable recurring revenue stream, or would the utility and charging provider capture most of the value while the dealership carries the customer-service burden?",
+  "time_horizon": "Near- to mid-term: decide whether to run a fleet pilot within 12 months and assess a commercial offering over 24 months.",
+  "additional_context": "This is a hypothetical breadth-test case, not a claim about an actual dealership or verified deployment. Do not assume all electric vehicles support bidirectional charging, that grid export is permitted, or that customers would earn a profit. Treat those points as evidence needs. Separate technical invention from commercial innovation in the dealership’s offering. Consider the counter-case that installation and support remain ordinary dealership services rather than a new business model. No performance results or source evidence are supplied. This case deliberately changes the technology and industry; it does not test stability of the primary MCP technology classification."
 }

@@ -1,14 +1,14 @@
 {
-  "emerging_technology": "REPLACE",
-  "intended_application": "REPLACE",
-  "organization": "REPLACE",
-  "industry_sector": "REPLACE",
-  "business_need": "REPLACE",
-  "users_stakeholders": "REPLACE",
-  "adoption_posture": "REPLACE",
-  "capabilities_constraints": "REPLACE",
-  "risk_consequence_context": "REPLACE",
-  "management_question": "REPLACE",
-  "time_horizon": "REPLACE",
-  "additional_context": ""
+  "emerging_technology": "Robotic 3D concrete printing for building construction.",
+  "intended_application": "Design and produce custom exterior wall forms for a small housing project, using robotic concrete printing instead of conventional formwork.",
+  "organization": "A hypothetical regional architecture practice that designs low-rise housing and partners with independent construction firms.",
+  "industry_sector": "Architecture and building construction",
+  "business_need": "Make distinctive housing designs practical to build without requiring expensive custom formwork.",
+  "users_stakeholders": "Architects, building contractors, homeowners, and local building inspectors.",
+  "adoption_posture": "Fast follower — test one permitted project with an experienced construction partner before offering printed construction routinely.",
+  "capabilities_constraints": "The practice has architectural design expertise but does not own printing equipment or employ a printing crew. It would depend on a construction partner. Local approval, structural suitability, and the proposed printing method have not been established.",
+  "risk_consequence_context": "An unsuitable printed wall could require redesign or replacement and delay occupancy. A failed project could damage the practice’s reputation with clients.",
+  "management_question": "Would robotic concrete printing simply improve how the practice delivers custom designs, or could it let the practice sell an integrated design-and-construction service that changes how it earns money?",
+  "time_horizon": "Near-term: one pilot housing project over the next 12–18 months.",
+  "additional_context": "This is a hypothetical breadth-test case, not a claim about an actual firm or verified project. The proposed use and organizational constraints are case assumptions. No evidence of completed construction, approved permits, savings, or customer demand is supplied. Distinguish novelty in the printing technology from novelty in the architectural application. Examine whether the printing partner captures the benefit while the architecture practice continues earning conventional design fees. Do not assume that printing walls means printing a complete building. This case deliberately changes the technology and industry; it does not test stability of the primary MCP technology classification."
 }
